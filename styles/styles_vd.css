@@ -158,11 +158,7 @@ img {
         height: 400px;
         width: auto;    }
 }
-img {
-    height:100%;
-    width: auto;
-    margin: auto;
-}
+
 .container {
     max-width:100%;
 }
@@ -216,6 +212,10 @@ img {
     padding-left: 30px;
     padding-right: 30px;
 }
+img {
+
+    margin: auto;
+}
 
 
 /* Large devices (desktops, 992px and up)*/
@@ -247,6 +247,10 @@ img {
     padding-left: 30px;
     padding-right: 30px;
 }
+img {
+
+    margin: auto;
+}
 
 /* Extra large devices (large desktops, 1200px and up)*/
 @media (min-width: 1200px) {
@@ -276,4 +280,5 @@ img {
         max-width:100%;
         padding-left: 30px;
         padding-right: 30px;
-    }}
+    }
+}
