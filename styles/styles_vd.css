@@ -212,11 +212,6 @@ img {
     padding-left: 30px;
     padding-right: 30px;
 }
-img {
-    height: 100%;
-    width:auto;
-}
-}
 
 /* Large devices (desktops, 992px and up)*/
 @media (min-width: 992px) {
